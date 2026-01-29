@@ -25,4 +25,4 @@ This project is based on a Deloitte-style data analytics case study. The objecti
 - Created structured dashboards and summaries
 
 ## 👤 Author
-Rahul Ajmeria
+Divyanshu Ajmeria
